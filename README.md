@@ -16,4 +16,8 @@ Hence Number Plate is Located
 
 ## Video Demo 
  
-https://drive.google.com/open?id=1RWA9tpCBI3OPlCC_enzSV9vz4oml6bxF
+https://drive.google.com/file/d/1RWA9tpCBI3OPlCC_enzSV9vz4oml6bxF/view?usp=sharing
+
+## Slides
+
+https://docs.google.com/presentation/d/1X15T1bHcbdI3l4dAzlT9S_Py7Q_sLBAJHJaqwKM2wfI/edit?usp=sharing
